@@ -10,6 +10,7 @@ namespace DashboardApp
     protected void Application_Start()
     {
       AreaRegistration.RegisterAllAreas();
+            //hahahahahaahah
 
       FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
       RouteConfig.RegisterRoutes(RouteTable.Routes);
