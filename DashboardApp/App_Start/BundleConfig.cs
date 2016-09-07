@@ -46,11 +46,11 @@ namespace DashboardApp
                  "~/Content/morris.css"));
 
             bundles.Add(new ScriptBundle("~/Scripts/js").Include(
-                        "~/Scripts/metisMenu.js",
-                        "~/Scripts/raphael.js",
-                        "~/Scripts/morris.js",
-                        "~/Scripts/morris-data.js",
-                        "~/Scripts/sb-admin-2.js"));
+                "~/Scripts/metisMenu.js",
+                "~/Scripts/raphael.js",
+                "~/Scripts/morris.js",
+                "~/Scripts/morris-data.js",
+                "~/Scripts/sb-admin-2.js"));
         }
   }
 }
